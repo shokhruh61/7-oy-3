@@ -29,7 +29,7 @@ function Clock() {
   }
   return (
     <div className="">
-      <div className="text-white text-9xl font-bold font-mono text-center mt-44">
+      <div className="text-black text-9xl font-bold font-mono text-center mt-44">
         <span>{format()}</span>
       </div>
     </div>

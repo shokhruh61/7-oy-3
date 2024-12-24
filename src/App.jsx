@@ -6,7 +6,7 @@ import LocalTime from "./components/LocalTime";
 import MainLayout from "./layout/MainLayout";
 function App() {
   return (
-    <div className="bg-slate-800 min-h-screen">
+    <div className="min-h-screen">
       <div className="flex justify-center">
         <Routes>
           <Route
